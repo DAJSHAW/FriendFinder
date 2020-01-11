@@ -12,7 +12,7 @@ module.exports = function(app) {
     // Set the post for the api/friends route
     app.post('/api/friends', function(req, res) {
     		// Set variables only needed for the post
-        var difference = 40;
+        var difference = 50;
         var matchName = '';
         var matchPhoto = '';
 
@@ -20,7 +20,7 @@ module.exports = function(app) {
         friends.forEach(function(friend) {
         		// Variables for comparing matches
             var matchedScoresArray = [];
-            var totalDifference = 40;
+            var totalDifference = 50;
 
             // Function to assist in the addition reduce() below
             function add(total, num) {
