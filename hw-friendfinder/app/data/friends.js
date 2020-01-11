@@ -1,6 +1,6 @@
 // Variable to hold the array of friends objects data
 var friends = [
-{ "name": "Josh", 
+{ "name": "Jim", 
 "photo": "https://media.licdn.cohttps://www.google.com/imgres?imgurl=https%3A%2F%2Fimgix.bustle.com%2Frehost%2F2016%2F9%2F13%2Fbe94e163-d8a9-4e79-ae69-8d4c78bcd193.jpg%3Fw%3D970%26h%3D546%26fit%3Dcrop%26crop%3Dfaces%26auto%3Dformat%26q%3D70&imgrefurl=https%3A%2F%2Fwww.bustle.com%2Farticles%2F75621-7-things-to-know-about-dating-a-nerd-because-bigger-is-better-when-it-comes-to&docid=VSc_mJJv75cWRM&tbnid=n_jZRWtcCZElcM%3A&vet=10ahUKEwjL3f2Fx_fmAhUiqlkKHfTEB9QQMwidASgQMBA..i&w=970&h=546&hl=en&bih=719&biw=1680&q=nerd&ved=0ahUKEwjL3f2Fx_fmAhUiqlkKHfTEB9QQMwidASgQMBA&iact=mrc&uact=8m/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg", 
 "scores": ["5", "1", "4", "4", "5", "1", "2", "5", "4", "1"] }, 
 
